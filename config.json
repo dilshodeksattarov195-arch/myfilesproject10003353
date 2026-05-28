@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedetch",
+        "uuid": 1565851,
+        "checksum": "ol4reh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
